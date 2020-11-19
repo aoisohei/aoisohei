@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋</h1>   
-
+## <p align="center">Hi there 👋  </p>
 ## <p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>
 
 👯 I’m looking to collaborate on Kaggle.
@@ -11,7 +10,7 @@
 <h1 align="center"></h1>  
 
 ##### 🔭 I’m currently working on :
-  🔥 Conding of All types of neural networks.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 Conding of All types of neural networks.</br>
   🔥 Project 'Luca' who will understand the amotions :</br>
     - which will recognize emotions;</br>
     - voice assistant translator ;</br>
