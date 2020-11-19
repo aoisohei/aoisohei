@@ -9,7 +9,7 @@
 
 <h1 align="center"></h1>  
 
-##### 🔭 I’m currently working on :
+##### 🔭 I’m currently working on :</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Conding of : </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔧 All types of neural networks. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10 %</br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔧 The cheat sheet of Tensorflow and Deep Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10 %</br>
