@@ -1,4 +1,4 @@
-## <p align="center">Hi there 👋 </br></br>![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue) </p>
+## <p align="center">Hi there 👋 </br></hr></br>![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue) </p>
 #### <p align="center">  </p>
 
 👯 I’m looking to collaborate on Kaggle.
