@@ -1,6 +1,5 @@
 ## <p align="center">Hi there 👋 </p> 
 
-## <p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>  
 ## <p align="center">[![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/)  </p>  
 
 ##### 🔭 I’m currently working on :
