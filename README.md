@@ -1,7 +1,7 @@
-### <p align="center"> Hi there 👋<p>
-<p align="center"> 📫 How to reach me<p>
-  <p align="right">LinkedIn : [@tetiana-luhacheva](https://www.linkedin.com/in/tetiana-luhacheva/)<p>
-  <p align="center">Telegram : @terratsukiyomi<p>
+### <p align="center"> Hi there 👋</p>
+<p align="center"> 📫 How to reach me</p>
+<p align="right">LinkedIn : [@tetiana-luhacheva](https://www.linkedin.com/in/tetiana-luhacheva/)</p>
+<p align="center">Telegram : @terratsukiyomi</p>
 ***
 👯 I’m looking to collaborate on Kaggle.
 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
