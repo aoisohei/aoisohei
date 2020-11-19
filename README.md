@@ -1,6 +1,6 @@
 ### <p align="center"> Hi there 👋 </p>   
 
-![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue) ![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)
+ ![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white) ![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)
 
 👯 I’m looking to collaborate on Kaggle.
 </br> 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
