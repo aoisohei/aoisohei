@@ -1,8 +1,6 @@
-### <p align="center"> Hi there 👋</p> 
-<p align="center"> 
+### <p align="center"> Hi there 👋</p>  
 ![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/) 
 ![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)
-</p>
 
 ***
 👯 I’m looking to collaborate on Kaggle.
