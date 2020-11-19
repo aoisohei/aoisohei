@@ -1,12 +1,16 @@
 ### <p align="center"> Hi there 👋</p> 
-![@tetiana-luhacheva](https://www.linkedin.com/in/tetiana-luhacheva/)
-[Lets go to Quora](https://www.quora.com)
+
+[[@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/) 
 Telegram : @terratsukiyomi
 ***
 👯 I’m looking to collaborate on Kaggle.
+
 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
+
 💬 Ask me about everything related to Deep Learning, Python, Houdini FX. I can help you if you have any questions about python.
+
 😄 Pronouns: aoisohei
+
 ⚡ Fun fact: je préfère plus parler français, là beaucoup d'informations en français   
 ***
 🔭 I’m currently working on ...
