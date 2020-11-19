@@ -1,4 +1,4 @@
-### <p align="center"> Hi there 👋 </p>   
+#<h1 align="center"> Hi there 👋 </p>   
 
 👯 I’m looking to collaborate on Kaggle.
 </br> 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
@@ -34,20 +34,4 @@
 ##### <p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>  
 ##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>   
 
-
-hr {
-    border: none;
-    border-top: 3px double #333;
-    color: #333;
-    overflow: visible;
-    text-align: center;
-    height: 5px;
-}
-
-hr:after {
-    background: #fff;
-    content: '§';
-    padding: 0 4px;
-    position: relative;
-    top: -13px;
-}
+ 
