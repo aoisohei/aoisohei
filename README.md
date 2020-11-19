@@ -1,5 +1,4 @@
 ### <p align="center"> Hi there 👋 </p>   
----
 
 👯 I’m looking to collaborate on Kaggle.
 </br> 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
@@ -7,7 +6,7 @@
 </br> 😄 Pronouns: aoisohei
 </br> ⚡ Fun fact: je préfère plus parler français, là beaucoup d'informations en français   
 
-##### <p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>  
+<hr>
 
 ##### 🔭 I’m currently working on :
   - Conding of All types of neural networks.
@@ -18,7 +17,8 @@
   - Generation of random textures for Houdini FX.
   - Generating random building plans in Houdini FX.  
 
-##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>   
+<hr>
+
 
 ##### 🌱 I’m currently learning :
   - Tensorflow
@@ -27,3 +27,27 @@
   - Computer Vission et OpenCV
   - Python
   - Houdini FX
+
+<hr>
+
+
+##### <p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>  
+##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>   
+
+
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
