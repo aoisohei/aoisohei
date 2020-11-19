@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**aoisohei/aoisohei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
   - Conding of All types of neural networks.
   - Project 'Luca' who will understand the amotions :
@@ -28,6 +23,6 @@ LinkedIn : [@tetiana-luhacheva](https://www.linkedin.com/in/tetiana-luhacheva/)
 Telegram : @terratsukiyomi
 
 - 😄 Pronouns: aoisohei
-- ⚡ Fun fact:les liens que je conseil à tous
+- ⚡ Fun fact:
 -->  je préfère plus parler français, là beaucoup d'informations en français  
 -->  mes projets finis 
