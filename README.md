@@ -1,5 +1,5 @@
 ## <p align="center">Hi there 👋  </p>
-<p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>
+#### <p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>
 
 👯 I’m looking to collaborate on Kaggle.
 </br> 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
