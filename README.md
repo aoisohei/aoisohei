@@ -1,5 +1,4 @@
-## <p align="center">Hi there 👋 </br></hr></br>![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue) </p>
-#### <p align="center">  </p>
+## <p align="center">Hi there 👋 </p> 
 
 👯 I’m looking to collaborate on Kaggle.
 </br> 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
@@ -16,9 +15,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Conding of Kaggle Compatition</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Conding of puzzles of programming</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Project 'Luca' who will understand the amotions :</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - which will recognize emotions;</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - voice assistant translator ;</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - understanding cat behavior ;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 which will recognize emotions;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 voice assistant translator ;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 understanding cat behavior ;</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Generation of random textures for Houdini FX.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Generating random building plans in Houdini FX.</br>
 
