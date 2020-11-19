@@ -1,8 +1,8 @@
 ### <p align="center"> Hi there 👋 </p>   
 ***
 ![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue) ![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)
-####### 👯 I’m looking to collaborate on Kaggle.
-####### 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
+###### 👯 I’m looking to collaborate on Kaggle.
+###### 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
 ##### 💬 Ask me about everything related to Deep Learning, Python, Houdini FX. I can help you if you have any questions about python.
 ##### 😄 Pronouns: aoisohei
 ##### ⚡ Fun fact: je préfère plus parler français, là beaucoup d'informations en français   
