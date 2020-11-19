@@ -12,14 +12,14 @@
 
 ##### 🔭 I’m currently working on :
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Conding of : </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔨 All types of neural networks.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚒️ The cheat sheet of Tensorflow and Deep Leqrning</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️ The cheat sheet of Python</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛠️ Tasks of Kaggle Compatition</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌠 Puzzles of programming</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 All types of neural networks.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 The cheat sheet of Tensorflow and Deep Leqrning</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 The cheat sheet of Python</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 Tasks of Kaggle Compatition</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 Puzzles of programming</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Project 'Luca' who will understand the amotions :</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔧 which will recognize emotions;</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔩 voice assistant translator ;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 which will recognize emotions;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 voice assistant translator ;</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 understanding cat behavior ;</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Generation of random textures for Houdini FX.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;Generating random building plans in Houdini FX.</br>
