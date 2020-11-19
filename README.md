@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋</h1>   
 
+## <p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>
+
 👯 I’m looking to collaborate on Kaggle.
 </br> 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
 </br> 💬 Ask me about everything related to Deep Learning, Python, Houdini FX. I can help you if you have any questions about python.
