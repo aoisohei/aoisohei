@@ -7,7 +7,6 @@
 </br> 😄 Pronouns: aoisohei
 </br> ⚡ Fun fact: je préfère plus parler français, là beaucoup d'informations en français   
 
-##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>   
 ##### <p align="center">![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)  </p>  
 
 ##### 🔭 I’m currently working on :
@@ -18,6 +17,8 @@
     - understanding cat behavior ;
   - Generation of random textures for Houdini FX.
   - Generating random building plans in Houdini FX.  
+
+##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>   
 
 ##### 🌱 I’m currently learning :
   - Tensorflow
