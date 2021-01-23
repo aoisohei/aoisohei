@@ -1,7 +1,5 @@
 ## <p align="center">Hi there 👋 </p> 
 
-## <p align="center">[![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/)  </p>  
-
 <h1 align="center"></h1>  
 
 ##### 🌱 I’m currently learning :</br>
@@ -22,6 +20,5 @@
 
 <h1 align="center"></h1>  
 
-##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>   
-
- 
+##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>    
+## <p align="center">[![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/)  </p>  
