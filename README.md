@@ -8,13 +8,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🦄&nbsp;&nbsp;Python</br>
 &nbsp;&nbsp;&nbsp;&nbsp;✨&nbsp;Houdini FX</br>
 
-<h1 align="center"></h1>  
-
-</br>👯 I’m looking to collaborate on Kaggle.
-</br> 🤔 I’m looking for help with improving my Deep Learning Techniques understanding.
-</br> 💬 Ask me about everything related to Deep Learning, Python, Houdini FX. I can help you if you have any questions about python.
-</br> 😄 Pronouns: aoisohei
-</br> ⚡ Fun fact: je préfère plus parler français, là beaucoup d'informations en français   
   
 
 ##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>    
