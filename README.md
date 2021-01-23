@@ -1,4 +1,4 @@
-## <p align="center">Hi there 👋 </p>  
+##### <p align="center">Hi there 👋 </p>  
 
 ##### 🌱 I’m currently learning :</br>
 &nbsp;&nbsp;&nbsp;&nbsp;⚗️&nbsp;&nbsp;Tensorflow</br>
@@ -15,8 +15,7 @@
 </br> 💬 Ask me about everything related to Deep Learning, Python, Houdini FX. I can help you if you have any questions about python.
 </br> 😄 Pronouns: aoisohei
 </br> ⚡ Fun fact: je préfère plus parler français, là beaucoup d'informations en français   
-
-<h1 align="center"></h1>  
+  
 
 ##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>    
 ## <p align="center">[![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/)  </p>  
