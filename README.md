@@ -6,9 +6,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🦄&nbsp;&nbsp;Python</br>
 &nbsp;&nbsp;&nbsp;&nbsp;✨&nbsp;Houdini FX</br>
 
-## _
+##
 ##### <p align="center">Ma passion - des algorithmes d'apprentissage automatique et des réseaux de neurones profonds réalisés pour résoudre les tâches et les problèmes de ce monde et la construction des solutions de reconnaissance d'image sur mesure.</p>
-## _
+##
 
 ##### <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>    
 ## <p align="center">[![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/)  </p>  
