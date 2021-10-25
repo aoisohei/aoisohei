@@ -4,6 +4,9 @@ sure.</p>
 |--- |--- |
 |![](https://i.imgur.com/avdk3cu.png)|![](https://i.imgur.com/JxbC18I.png)|
 
+
+##### <p align="center">[![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/)  </p> 
+
 ##### <p align="center">Ma passion - des algorithmes d'apprentissage automatique et des réseaux de neurones profonds réalisés pour résoudre les tâches et les problèmes de ce monde et la construction des solutions de reconnaissance d'image sur me
 
 &nbsp;&nbsp;&nbsp;&nbsp;⚗️&nbsp;&nbsp;Tensorflow</br>
@@ -13,7 +16,7 @@ sure.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;🦄&nbsp;&nbsp;Python</br>
 &nbsp;&nbsp;&nbsp;&nbsp;✨&nbsp;Houdini FX</br>
 
-## <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>  
-##### <p align="center">[![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/)  </p> 
- 
 
+
+## <p align="center">![](https://img.shields.io/badge/Telegram-%40terratsukiyomi-white)  </p>  
+ 
