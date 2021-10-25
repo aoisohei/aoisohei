@@ -1,4 +1,4 @@
-|![](https://i.imgur.com/2KyAq5P.png)(https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-readme-md)|![](https://i.imgur.com/r6MWVZC.png)|
+|![(https://i.imgur.com/2KyAq5P.png)](https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-readme-md)|![](https://i.imgur.com/r6MWVZC.png)|
 |--- |--- |
 |![](https://i.imgur.com/avdk3cu.png)|![](https://i.imgur.com/JxbC18I.png)|
 
