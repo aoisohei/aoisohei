@@ -1,7 +1,4 @@
-
-##
 ##### <p align="center">Ma passion - des algorithmes d'apprentissage automatique et des réseaux de neurones profonds réalisés pour résoudre les tâches et les problèmes de ce monde et la construction des solutions de reconnaissance d'image sur mesure.</p>
-##
 
 |[![](https://i.imgur.com/2KyAq5P.png)](https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-readme-md)|![](https://i.imgur.com/r6MWVZC.png)|
 |--- |--- |
