@@ -1,7 +1,15 @@
-![](https://i.imgur.com/2KyAq5P.png)
-![](https://i.imgur.com/r6MWVZC.png)
-![](https://i.imgur.com/avdk3cu.png)
-![](https://i.imgur.com/JxbC18I.png)
+|Month|Savings|
+|--- |--- |
+|![](https://i.imgur.com/2KyAq5P.png)|![](https://i.imgur.com/r6MWVZC.png)|
+|![](https://i.imgur.com/avdk3cu.png)|![](https://i.imgur.com/JxbC18I.png)|
+|December|$250|
+
+
+
+
+
+
+
 
 
 ##### <p align="center">[![@tetiana-luhacheva](https://img.shields.io/badge/LinkedIN-%40tetiana--luhacheva-blue)](https://www.linkedin.com/in/tetiana-luhacheva/)  </p> 
